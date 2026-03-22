@@ -88,4 +88,4 @@ Go to **Tools** and set the following for the Seeed XIAO ESP32-S3:
 
 ---
 
-Developed with ❤️ by [Project Pajri](https://www.instructables.com/member/Project+Pajri/)
+Developed with ❤️ by [Project Pajri]([https://www.instructables.com/member/Project+Pajri/](https://www.instructables.com/Build-Your-Own-Mini-Digital-Camera-With-ESP32-S3-C/))
