@@ -14,7 +14,7 @@ A high-performance, ultra-compact DIY digital camera based on the **Seeed Studio
 
 To achieve this ultra-compact form factor, a custom PCB was designed to integrate the XIAO module, display, and user interface into a single, pocket-sized board.
 
-For the best results with SMD 0603 components and high-speed SPI signals, I highly recommend getting the boards manufactured by **[JLCPCB](https://jlcpcb.com)**.
+For the best results with SMD 0603 components and high-speed SPI signals, I highly recommend getting the boards manufactured by **[JLCPCB](https://jlcpcb.com/?from=audrey3)**.
 
 **Why choose JLCPCB for this project?**
 *   **High Precision:** Perfect for the small SMD 0603 footprints and tight traces used in this design.
